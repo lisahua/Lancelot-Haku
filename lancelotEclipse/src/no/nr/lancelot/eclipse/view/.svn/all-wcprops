@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/72/trunk/lancelotEclipse/src/no/nr/lancelot/eclipse/view
+END
+LancelotMarkerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/71/trunk/lancelotEclipse/src/no/nr/lancelot/eclipse/view/LancelotMarkerUtil.java
+END
+AnonymousTypeFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/45/trunk/lancelotEclipse/src/no/nr/lancelot/eclipse/view/AnonymousTypeFinder.java
+END
+MessageDialogHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/40/trunk/lancelotEclipse/src/no/nr/lancelot/eclipse/view/MessageDialogHelper.java
+END
+ILancelotView.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/39/trunk/lancelotEclipse/src/no/nr/lancelot/eclipse/view/ILancelotView.java
+END
+BugAnnotationLancelotView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/39/trunk/lancelotEclipse/src/no/nr/lancelot/eclipse/view/BugAnnotationLancelotView.java
+END
+MethodNameField.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/71/trunk/lancelotEclipse/src/no/nr/lancelot/eclipse/view/MethodNameField.java
+END
+MethodAnnotator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/39/trunk/lancelotEclipse/src/no/nr/lancelot/eclipse/view/MethodAnnotator.java
+END
+SourceTypeFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12/trunk/lancelotEclipse/src/no/nr/lancelot/eclipse/view/SourceTypeFinder.java
+END
+ClassAnnotator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/39/trunk/lancelotEclipse/src/no/nr/lancelot/eclipse/view/ClassAnnotator.java
+END
+LancelotMarkerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/lancelotEclipse/src/no/nr/lancelot/eclipse/view/LancelotMarkerView.java
+END
+MethodMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/39/trunk/lancelotEclipse/src/no/nr/lancelot/eclipse/view/MethodMap.java
+END
+LancelotMarkerResolutionGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/72/trunk/lancelotEclipse/src/no/nr/lancelot/eclipse/view/LancelotMarkerResolutionGenerator.java
+END

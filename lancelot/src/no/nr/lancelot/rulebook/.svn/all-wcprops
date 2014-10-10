@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/54/trunk/lancelot/src/no/nr/lancelot/rulebook
+END
+RulebookParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/40/trunk/lancelot/src/no/nr/lancelot/rulebook/RulebookParser.java
+END
+Phrase.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/lancelot/src/no/nr/lancelot/rulebook/Phrase.java
+END
+Rulebook.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/48/trunk/lancelot/src/no/nr/lancelot/rulebook/Rulebook.java
+END
+MethodPhrase.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/40/trunk/lancelot/src/no/nr/lancelot/rulebook/MethodPhrase.java
+END
+MethodIdea.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/40/trunk/lancelot/src/no/nr/lancelot/rulebook/MethodIdea.java
+END
+IRulebookLookupResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/53/trunk/lancelot/src/no/nr/lancelot/rulebook/IRulebookLookupResult.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/lancelot/src/no/nr/lancelot/rulebook/Rule.java
+END
+NamePart.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/lancelot/src/no/nr/lancelot/rulebook/NamePart.java
+END
+Severity.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/54/trunk/lancelot/src/no/nr/lancelot/rulebook/Severity.java
+END
+IRulebook.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/48/trunk/lancelot/src/no/nr/lancelot/rulebook/IRulebook.java
+END
+RulebookLookupResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/53/trunk/lancelot/src/no/nr/lancelot/rulebook/RulebookLookupResult.java
+END

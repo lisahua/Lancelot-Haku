@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/49/trunk/lancelot/lib
+END
+jsr305.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/lancelot/lib/jsr305.jar
+END
+edu.mit.jwi_2.1.4_jdk.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/lancelot/lib/edu.mit.jwi_2.1.4_jdk.jar
+END
+asm-tree-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/lancelot/lib/asm-tree-3.0.jar
+END
+annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/lancelot/lib/annotations.jar
+END
+asm-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/lancelot/lib/asm-3.0.jar
+END
+asm-analysis-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/lancelot/lib/asm-analysis-3.0.jar
+END
+xom-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/lancelot/lib/xom-1.1.jar
+END

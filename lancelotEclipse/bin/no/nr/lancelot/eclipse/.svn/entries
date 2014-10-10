@@ -1,0 +1,86 @@
+10
+
+dir
+72
+http://lancelot-eclipse.googlecode.com/svn/trunk/lancelotEclipse/src/no/nr/lancelot/eclipse
+http://lancelot-eclipse.googlecode.com/svn
+
+
+
+2012-01-21T20:01:19.658863Z
+72
+edvard.kristoffer.karlsen@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+85a358d8-25f7-b76e-27b6-fbb467d5d4d4
+
+actions
+dir
+
+LancelotPlugin.java
+file
+
+
+
+
+2014-10-09T17:56:01.000000Z
+c5491291a98267793f54a1b03c9a56e0
+2011-09-03T11:43:37.473485Z
+39
+edvard.kristoffer.karlsen@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7370
+
+analysis
+dir
+
+controller
+dir
+
+builder
+dir
+
+gathering
+dir
+
+view
+dir
+
+util
+dir
+
+nature
+dir
+

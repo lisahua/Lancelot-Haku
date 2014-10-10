@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/40/trunk/lancelot/src/no/nr/lancelot/analysis/code/descriptor
+END
+FieldDescriptorParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/40/trunk/lancelot/src/no/nr/lancelot/analysis/code/descriptor/FieldDescriptorParser.java
+END
+DescriptorParsingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/40/trunk/lancelot/src/no/nr/lancelot/analysis/code/descriptor/DescriptorParsingState.java
+END
+ReferenceTypeParsingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/40/trunk/lancelot/src/no/nr/lancelot/analysis/code/descriptor/ReferenceTypeParsingState.java
+END
+PrimitiveTypeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/40/trunk/lancelot/src/no/nr/lancelot/analysis/code/descriptor/PrimitiveTypeParser.java
+END
+ITypeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/40/trunk/lancelot/src/no/nr/lancelot/analysis/code/descriptor/ITypeParser.java
+END
+MethodDescriptorParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/40/trunk/lancelot/src/no/nr/lancelot/analysis/code/descriptor/MethodDescriptorParser.java
+END
+ReferenceTypeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/40/trunk/lancelot/src/no/nr/lancelot/analysis/code/descriptor/ReferenceTypeParser.java
+END
+TypeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/40/trunk/lancelot/src/no/nr/lancelot/analysis/code/descriptor/TypeParser.java
+END

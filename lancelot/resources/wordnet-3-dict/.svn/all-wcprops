@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/32/trunk/lancelot/resources/wordnet-3-dict
+END
+index.adv
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/lancelot/resources/wordnet-3-dict/index.adv
+END
+data.adv
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/lancelot/resources/wordnet-3-dict/data.adv
+END
+index.sense
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/lancelot/resources/wordnet-3-dict/index.sense
+END
+index.adj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/lancelot/resources/wordnet-3-dict/index.adj
+END
+index.verb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/lancelot/resources/wordnet-3-dict/index.verb
+END
+index.noun
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/lancelot/resources/wordnet-3-dict/index.noun
+END
+data.adj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/lancelot/resources/wordnet-3-dict/data.adj
+END
+data.verb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/lancelot/resources/wordnet-3-dict/data.verb
+END
+data.noun
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/lancelot/resources/wordnet-3-dict/data.noun
+END
+adv.exc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/32/trunk/lancelot/resources/wordnet-3-dict/adv.exc
+END
+adj.exc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/32/trunk/lancelot/resources/wordnet-3-dict/adj.exc
+END
+verb.exc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/32/trunk/lancelot/resources/wordnet-3-dict/verb.exc
+END
+noun.exc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/32/trunk/lancelot/resources/wordnet-3-dict/noun.exc
+END
